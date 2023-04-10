@@ -11,9 +11,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    
+/*     updated */
+    background-repeat: no-repeat no-repeat;
     background-image: url('../images/pattern-background-desktop.svg');
-    background-repeat: no-repeat;
+    background-color:#E1E9Ff;
     
   }
 .container{
