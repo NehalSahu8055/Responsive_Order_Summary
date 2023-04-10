@@ -47,7 +47,7 @@ body {
     flex-direction: column;
    
 }
-.row2 h2{
+.row2 h1{
     padding-top : 48px;
     color :hsl(223, 47%, 23%);
     font-weight: 900;
@@ -94,6 +94,10 @@ li{
     text-align: right;
     width:50%;
 }
+h2{
+font-size: 19px;
+}
+
 a{
     color:blue;
     text-align: center;
