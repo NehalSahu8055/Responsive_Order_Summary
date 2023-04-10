@@ -11,12 +11,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    
-/*     updated */
+   
     background-repeat: no-repeat no-repeat;
     background-image: url('../images/pattern-background-desktop.svg');
     background-color:#E1E9Ff;
-    
   }
 .container{
 
@@ -49,7 +47,7 @@ body {
     flex-direction: column;
    
 }
-.row2 h1{
+.row2 h2{
     padding-top : 48px;
     color :hsl(223, 47%, 23%);
     font-weight: 900;
@@ -62,22 +60,26 @@ body {
 .pay{
 
     padding:24px;
-    margin:0;
     display:flex;
     border-radius:16px;
-    width:90%;
+    width:100%;
     
     border:none;
-    background-color: hsl(276, 63%, 97%);
-    /* opacity: 30%; */
+    background-color:#eef2fb;
     border-radius:7px;
 }
 .pay-heading{
     color:hsl(223, 47%, 23%);
+    
 }
 
 li{
     list-style: none;
+}
+
+.payment{
+    width:100%;
+    padding: 0 49px;
 }
 .pay>img{
     margin-right:17px;
@@ -88,6 +90,7 @@ li{
     width:100%;
 }
 .change{
+    margin:auto 0;
     text-align: right;
     width:50%;
 }
