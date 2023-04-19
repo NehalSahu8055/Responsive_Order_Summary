@@ -16,6 +16,9 @@ body {
     background-image: url('../images/pattern-background-desktop.svg');
     background-color:#E1E9Ff;
   }
+main{
+    margin:15px;
+}
 .container{
 
     background-color: hsl(225, 100%, 98%);
