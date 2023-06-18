@@ -14,7 +14,7 @@ body {
    
     background-repeat: no-repeat no-repeat;
     background-image: url('../images/pattern-background-desktop.svg');
-    background-size:100%;
+    background-size:100% 50%;
     background-color:#E1E9Ff;
   }
 .container{
