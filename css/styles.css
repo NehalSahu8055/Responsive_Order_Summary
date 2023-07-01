@@ -95,6 +95,9 @@ li{
     text-align: right;
     width:50%;
 }
+button:hover, .cancelorder:hover, .change:hover{
+    cursor:pointer;
+}
 h2{
 font-size: 19px;
 }
@@ -137,47 +140,3 @@ span:hover{
     padding-bottom:48px;
 }
 
-/* mobile */
-/* @media only screen and (max-width:500px){
-    .container{
-        width: 327px;
-        height: 568px;
-        
-    }
-    .row1 img{
-        width: 327px;
-        height: 160px;
-        
-    }
-    .row2{
-        width:327px;
-        height:160px;
-        margin-top:2-0px;
-    }
-    .pay{
-        font-size:11px;
-        width: 327px;
-        height: 106px;;
-
-    }
-    .row2 h1{
-    font-size:22px;
-    }
-    .row2 p{
-        font-size:16px;
-        margin:0 20px 0 20px;
-        font-weight: 500;
-    }
-    .pay{
-        width: 277px;
-        height: 81px;
-    }
-    button{
-        margin-top:25px;
-        margin-bottom: 25px;
-        width: 279px;
-        height: 49px;
-    }
-    
-}
- */
